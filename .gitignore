@@ -1,0 +1,16 @@
+# Fichiers Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Fichiers de configuration
+.DS_Store
+.vscode/
+*.sqlite3
+
+# Dossiers de dépendances
+venv/
+env/
+
+# Fichiers spécifiques à l'IDE (ajoutez d'autres selon vos besoins)
+.idea/
